@@ -1,0 +1,5 @@
+{
+  "Machine Learning Basics": ["Linear Regression", "Decision Trees", "Overfitting"],
+  "Deep Learning Basics": ["CNN Basics", "Convolutional Layers"],
+  "Optimization": ["Gradient Descent", "Adam Optimizer"]
+}

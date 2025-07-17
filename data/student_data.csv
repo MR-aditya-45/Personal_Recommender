@@ -1,0 +1,6 @@
+student_name,topics_studied,confidence,learning_style
+Alice,"Linear Regression,CNN Basics","4,2",Visual
+Bob,"Decision Trees,Overfitting","3,5",Text
+Charlie,"CNN Basics","2",Visual
+David,"Gradient Descent,Adam Optimizer","5,3",Auditory
+Eve,"Linear Regression,Overfitting","2,4",Text
