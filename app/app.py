@@ -1,6 +1,10 @@
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 import streamlit as st
 import json
 from recommender.recommender import load_topic_graph, recommend_next_topics
+
 
 # Load topic graph
 topic_graph = load_topic_graph("data/topic_graph.json")
